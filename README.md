@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo.svg" alt="lightjson logo" width="400">
+</div>
+
 # lightjson - JSON Builder and Parser
 
 A lightweight JSON builder and parser library implemented in C.
